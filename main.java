@@ -9,6 +9,7 @@ System.out.println(new Date());
 System.out.println("after making git repository");
 System.out.println("check after changing something it work or not automatically");
 
-
+student s=new student();
+s.sayHello();
 }
 }
