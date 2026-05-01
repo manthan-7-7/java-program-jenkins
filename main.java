@@ -6,7 +6,8 @@ public static void main(String[] args) {
 System.out.println("this is java program done in vs code");
 System.out.println("outpur from java program");
 System.out.println(new Date());
-System.out.println("sfter making git repository");
+System.out.println("after making git repository");
+System.out.println("check after changing something it work or not automatically");
 
 
 }
